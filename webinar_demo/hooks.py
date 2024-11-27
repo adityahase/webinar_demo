@@ -1,5 +1,5 @@
 app_name = "webinar_demo"
-app_title = "Webinar Demo"
+app_title = "Webinar Demo App"
 app_publisher = "Aditya"
 app_description = "Demo App for Frappe Cloud Webinar"
 app_email = "aditya@frappe.cloud"
